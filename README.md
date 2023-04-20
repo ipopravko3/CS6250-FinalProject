@@ -1,4 +1,4 @@
-# CS6250-FinalProject
+# CSE-6250 Final Project
 This repository contains the replication code for paper "Statistical supervised meta-ensemble algorithm for medical record linkage" (Kha Vo, Jitendra Jonnagaddala, Siaw-Teng Liaw).
 The code was developed in Python 3.9. The following libraries were used: pandas, recordlinkage, numpy, sklearn, matplotlib.
 To reproduce this work you need to follow these steps:
